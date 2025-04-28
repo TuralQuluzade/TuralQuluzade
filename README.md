@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tural</h1>
+<p align="center">
+  <img src="https://png.pngtree.com/thumb_back/fh260/background/20230611/pngtree-screenshotsaturday-image_2937739.jpg" alt="Header Image"/>
+</p>
 - 📫 How to reach me **turalindustryn1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
